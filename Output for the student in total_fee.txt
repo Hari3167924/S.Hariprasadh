@@ -1,0 +1,67 @@
+SAMPLE OUTPUT 1 :
+Enter the student details
+Student id : 
+97
+Student name : 
+Hari
+Department : 
+CSE
+Gender : 
+Male
+Category (Hosteller/Dayscholar): 
+Hosteller
+college_FEE : 
+80000
+Room_no : 
+6
+Block name(A,B,C)
+B
+Room type (AC/Normal) : 
+Normal
+ student_id=97, student_name=, dept=CSE, gender=Male, category=Hosteller, college_fee=80000.0,room_num=6, bk_name=B, room_type=Normal,
+ Total_fee : 130000.0
+
+
+SAMPLE output 2 :
+Enter the student details
+Student id : 
+54
+Student name : 
+fazal
+Department : 
+CSE
+Gender : 
+Male
+Category (Hosteller/Dayscholar): 
+Dayscholar
+college_FEE : 
+80000
+BUS number : 
+6
+Distance
+18
+ student_id=54, student_name=, dept=CSE, gender=Male, category=Dayscholar, college_fee=80000.0
+ Total_fee=92000.0
+
+SAMPLE OUTPUT 3 :
+Enter the student details
+Student id : 
+71
+Student name : 
+vijay
+Department : 
+ECE
+Gender : 
+Male
+Category (Hosteller/Dayscholar): 
+Hosteller
+college_FEE : 
+80000
+Room_no : 
+6
+Block name(A,B,C)
+A
+Room type (AC/Normal) : 
+AC
+ student_id=71, student_name=, dept=ECE, gender=Male, category=Hosteller, college_fee=80000.0,room_num=6, bk_name=A, room_type=AC,
+ Total_fee : 148000.0
