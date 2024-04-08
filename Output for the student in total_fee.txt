@@ -1,7 +1,7 @@
 SAMPLE OUTPUT 1 :
 Enter the student details
 Student id : 
-97
+77
 Student name : 
 Hari
 Department : 
@@ -29,7 +29,7 @@ Student id :
 Student name : 
 fazal
 Department : 
-CSE
+AIDS
 Gender : 
 Male
 Category (Hosteller/Dayscholar): 
