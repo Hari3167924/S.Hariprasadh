@@ -18,7 +18,7 @@ Block name(A,B,C)
 B
 Room type (AC/Normal) : 
 Normal
- student_id=97, student_name=, dept=CSE, gender=Male, category=Hosteller, college_fee=80000.0,room_num=6, bk_name=B, room_type=Normal,
+ student_id=77, student_name=, dept=CSE, gender=Male, category=Hosteller, college_fee=80000.0,room_num=6, bk_name=B, room_type=Normal,
  Total_fee : 130000.0
 
 
@@ -40,7 +40,7 @@ BUS number :
 6
 Distance
 18
- student_id=54, student_name=, dept=CSE, gender=Male, category=Dayscholar, college_fee=80000.0
+ student_id=54, student_name=, dept=AIDS, gender=Male, category=Dayscholar, college_fee=80000.0
  Total_fee=92000.0
 
 SAMPLE OUTPUT 3 :
